@@ -23,3 +23,6 @@ For Decryption:
 >Explorer.exe decryptedDog.bmp
 
 The program input arguments may be increased to take another input for the key, however the key is kept the same for testing purposes.
+
+# A Detailed Project Poster
+![PostedPNGCopy](https://user-images.githubusercontent.com/128324190/233471832-50c15662-5069-42a6-b305-1a759e90c528.png)
